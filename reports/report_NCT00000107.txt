@@ -1,0 +1,25 @@
+Clinical Trial Title: Body Water Content in Cyanotic Congenital Heart Disease
+
+Brief Summary: Adults with cyanotic congenital heart disease have elevated levels of plasma proatrial
+natruretic peptide (proANP) which most likely results in chronic dehydration, leading to
+reduced oxygen transport to tissues and shortness of breath with activity. The purpose of
+this study is to characterize adults with cyanotic congenital heart defects with respect
+to their body composition (water and fat-free mass) and resting metabolic rates. The
+study consists of several measures of how much body water, fat and lean tissue a subject
+has, and measures the number of calories the subject's body uses at rest. Adult subjects
+with cyanotic congenital heart disease will be recruited along with healthy noncyanotic
+control subjects matched for age, gender, and body weight.
+
+Draft a comprehensive clinical trial report that includes the following sections:
+1. Objectives
+2. Methods
+3. Results
+4. Conclusions
+5. Acknowledgments
+6. References
+
+Ensure that each section is clearly labeled and contains detailed, structured information.
+
+1. 1.1 This paper was written by the authors for their clinical trial, and does not necessarily represent the official views of the FDA.
+
+3. The paper itself was made possible by funding from the National Institutes of Health.

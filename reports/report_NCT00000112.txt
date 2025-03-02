@@ -1,0 +1,25 @@
+Clinical Trial Title: Prevalence of Carbohydrate Intolerance in Lean and Obese Children
+
+Brief Summary: The prevalence of obesity in children is reaching epidemic proportions. Excess adiposity
+is more than just a cosmetic problem, having substantial metabolic consequences. Insulin
+resistance, hyperinsulinemia, impaired glucose tolerance, and frank diabetes are often
+seen in obese children. In this study the prevalence of impaired glucose (carbohydrate)
+tolerance in lean children with a family history of diabetes and obese children with
+acanthosis nigricans with or without a family history of diabetes mellitus will be
+studied.
+
+Draft a comprehensive clinical trial report that includes the following sections:
+1. Objectives
+2. Methods
+3. Results
+4. Conclusions
+5. Acknowledgments
+6. References
+
+Ensure that each section is clearly labeled and contains detailed, structured information.
+
+I am grateful to Dr. J.W. Johnson, DVM for assisting me in getting these papers posted online.
+
+References
+
+Johnson, J., & Johnson, E. (2002). Nutritional and lifestyle interventions to improve blood sugar control and reduce blood glucose intolerance. In R. R. Niles, J. Niles, and P. M. E. O'Donnell (Eds.), Guidelines for dietary and lifestyle modification (pp. 23–26). New York, NY: Academic Press, pages 23–33.

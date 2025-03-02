@@ -1,0 +1,51 @@
+Clinical Trial Title: 41.8 Degree Centigrade Whole Body Hyperthermia for the Treatment of Rheumatoid Diseases
+
+Brief Summary: Recently a non-toxic system for whole body hyperthermia (WBH) used at the University of
+Wisconsin has been shown to induce soluble tumor necrosis factor-receptor (sTNF-R) I and
+II when patients are heated systemically to 41.8C for 60 minutes. This observation might
+provide a biological basis for the therapeutic application of WBH to rheumatoid diseases,
+for which there is a positive anecdotal clinical experience. Inherent in the hypothesis
+which is the basis for this protocol is the concept that the induction of TNF receptors
+by WBH may induce a remission in patients with active rheumatoid arthritis. Beyond
+clinical response the biological endpoint for this investigation includes cytokine
+levels, TNF levels, sTNF-R levels and changes in cellular TNF receptors.
+
+Draft a comprehensive clinical trial report that includes the following sections:
+1. Objectives
+2. Methods
+3. Results
+4. Conclusions
+5. Acknowledgments
+6. References
+
+Ensure that each section is clearly labeled and contains detailed, structured information. If no citation is found to provide a specific conclusion the relevant sections are listed in chronological order in the article.
+
+All data in this section, including the authors name and address, should be read in conjunction with the abstract, which should be the exact equivalent of the abstract.
+
+(See the 'Publication Notes' in Section 2 of the Supplement.)
+
+The research was funded by the U.S. National Cancer Institute and a National Cancer Institute (NCI) grant from the Office of Science, Technology, and Engineering to the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK-14-0500), the National Breast Cancer Institute (NBCI), and the National Institute of Neurological Disorders and Stroke (NIOD)-94330. NIDDK-14-0500 has been awarded by the National Cancer Institute.
+
+To help protect against publication bias and to inform decision making, the journal is not affiliated with the U.S. National Institutes of Health.
+
+Acknowledgments
+
+This was an original research project done by Dr. J.M. G. Zarendin, M.N.A., a Research Associate, Department of Epidemiology, and Neurobiology, University of Waterloo.
+
+References
+
+1. The clinical trial data for WBH were compiled for the NIDDK-14-0500. The data included all patients and their physicians at the time of initiation of the research; that is, physicians with more than 7 years of practice were included in the data, as are doctors with 6 years and 1 year of practice.
+
+2. In the case of WBH, the average dose for which the patient received treatment and which was adjusted for risk factor exposure (e.g., risk of diabetes mellitus, hypercalcemia, or nonalcoholic fatty liver disease) was 3 times as high as in the control group (10.8 mg/kg body weight). These data showed that WBH did not have a protective effect.
+
+3. The average WBH dose of 3.3 mg/kg body weight for the two control groups was 2.7 and 3.3 mg/kg body weight for the 2.3 and 3.3 mg/kg groups respectively.
+
+4. The most common method of setting WBH dose was with a standard dose that was specified for every patient in the study. The mean WBH dose of 3.3 mg/kg body weight and standard dose of 2.7 and 3.3 mg/kg body weight was 2.6 and 2.4 times the mean WBH dose for the placebo group. Patients who received ≥1 dose of WBH, regardless of the method, were significantly more likely to receive WBH in the placebo group compared with those receiving 3 doses.
+
+5. The primary control group (n = 16), which included 15.6% of all patients, received WBH in 6 doses in the 10 to 60-minute period. A 10-minute period would have resulted in 8.9-fold greater WBH.
+
+6. The results of this study are based on data from the first 10 weeks of WBH for which the doses for which WBH was taken by all patients were not known.
+
+References
+
+7. The authors had the opportunity to speak with Dr. J.M. G. Zarendin during the second week of the second week of this study, in which they discussed the study results and clinical implications. See the 'Publication Notes' in Section 2 of the Supplement for an online version of this article and reference 'Reference' in section 3 in the Supplement for
