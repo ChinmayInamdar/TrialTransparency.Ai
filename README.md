@@ -115,18 +115,6 @@ docker run -p 8080:8080 trialtransparency
 
 ---
 
-## 📷 Sample Screenshots / Visuals
-
-> Replace below with actual images
-
-![ETL Pipeline](images/pipeline_overview.png)  
-*End-to-end ETL + Validation Pipeline*
-
-![LLM Explanations](images/explanation_output.png)  
-*Role-specific LLM-generated error messages*
-
----
-
 ## 👩‍⚕️ Authors
 
 - **Arya Doshi**  
